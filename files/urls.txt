@@ -16,11 +16,20 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 ## br.de
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master_1920p_5000.m3u8
-## Servus TV
+## Servus TV (AT)
 https://s6.hopslan.com/servusx1/tracks-v1a1/mono.m3u8?token=eafd70362edc35b5be1ea788b8578385d4b08b34-4543cafca8b173268fa7240e0e881226-1706406116-1706395316
-## ORF 1
+## ORF 1 (AT)
 https://s6.hopslan.com/orfx1/tracks-v1a1/mono.m3u8?token=2ecf63ec5946a2c4f146c1b0d788c37d600aedf7-05ccee1cf3f3eac13ccbe18090ba791c-1706406296-1706395496
-## ORF 2
+## ORF 2 (AT)
 https://s6.hopslan.com/orf2/tracks-v1a1/mono.m3u8?token=271937f8936257bc1b781b9c56b1188704789247-09fe4f0c950fdfaf5e7c2aeb1b5922f0-1706406258-1706395458
-## 
+## Lände TV (AT)
+https://s4.hopslan.com/landle/tracks-v1a1/mono.m3u8
+## FS1 (AT)
+https://s4.hopslan.com/fs1/tracks-v1a1/mono.m3u8
+## W24 (AT)
+https://s4.hopslan.com/w24/tracks-v1a1/mono.m3u8
+## Titol TV (AT)
+https://s4.hopslan.com/tirol/tracks-v1a1/mono.m3u8
+## DorfTV (AT)
+https://s4.hopslan.com/dorf/tracks-v1a1/mono.m3u8
 # https://www.2ix2.com/category/deutsche-tv-sender/ German statiotions
