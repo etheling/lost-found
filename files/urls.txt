@@ -1,8 +1,12 @@
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/yletv_video1080p50.m3u8
-https://s6.hopslan.com/mtv/tracks-v1a1/mono.m3u8?token=a2c1d4ca0b1eb9c8a67dd62fcc352e07c89987db-8cb0770adeb12bfcf71d447d0d9abc9c-1706403753-1706392953
 https://yletvworld.akamaized.net/hls/live/622541/yletv2w/yletv_video1080p50.m3u8
 https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/yletv_video1080p50.m3u8
+## al Jazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 https://live3.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=11a1996567ae64052807a0b2cc92750c4ca595ef
+## Bloomberg TV USA
 https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/66980d4b-87bb-4b8d-bd2a-0a9d320cb35d:BRU/variant/89b8a4328e4b55858d004b951b6518e1/bandwidth/1500000.m3u8
+## Bloomberg TV Europe
 https://dai.google.com/linear/hls/pa/event/TPKhqf0BQn2_ijC-0rOJcA/stream/84e15b78-091d-4126-8051-80f85396c760:GRQ/variant/69815cde14f14a65ccfb33f8c9a1e908/bandwidth/1200000.m3u8
+## MTV
+https://s6.hopslan.com/mtv/tracks-v1a1/mono.m3u8?token=a2c1d4ca0b1eb9c8a67dd62fcc352e07c89987db-8cb0770adeb12bfcf71d447d0d9abc9c-1706403753-1706392953
