@@ -32,4 +32,6 @@ https://s4.hopslan.com/w24/tracks-v1a1/mono.m3u8
 https://s4.hopslan.com/tirol/tracks-v1a1/mono.m3u8
 ## DorfTV (AT)
 https://s4.hopslan.com/dorf/tracks-v1a1/mono.m3u8
+## Tagesschau (DE)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
 # https://www.2ix2.com/category/deutsche-tv-sender/ German statiotions
