@@ -16,6 +16,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 ## br.de
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master_1920p_5000.m3u8
-#
+## Servus TV
+https://s6.hopslan.com/servusx1/tracks-v1a1/mono.m3u8?token=eafd70362edc35b5be1ea788b8578385d4b08b34-4543cafca8b173268fa7240e0e881226-1706406116-1706395316
 #
 # https://www.2ix2.com/category/deutsche-tv-sender/ German statiotions
