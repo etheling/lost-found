@@ -34,6 +34,8 @@ https://s4.hopslan.com/tirol/tracks-v1a1/mono.m3u8
 https://s4.hopslan.com/dorf/tracks-v1a1/mono.m3u8
 ## Tagesschau (DE)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
-## Welt N24
+## Welt N24 (DE)
 https://broadcast.welt.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/welttv-broadcast-prod/4d1dc7a5-6851-45dd-875d-170c56475c2c/6.m3u8
+## Welt der Wunder (DE)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/chunks.m3u8?nimblesessionid=114852485
 # https://www.2ix2.com/category/deutsche-tv-sender/ German statiotions
