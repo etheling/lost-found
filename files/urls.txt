@@ -12,3 +12,5 @@ https://dai.google.com/linear/hls/pa/event/TPKhqf0BQn2_ijC-0rOJcA/stream/84e15b7
 https://s6.hopslan.com/mtv/tracks-v1a1/mono.m3u8?token=a2c1d4ca0b1eb9c8a67dd62fcc352e07c89987db-8cb0770adeb12bfcf71d447d0d9abc9c-1706403753-1706392953
 ## India today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+## Deutsche Welle
+https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
