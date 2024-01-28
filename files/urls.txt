@@ -22,6 +22,7 @@ Red Bull TV;https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 Al Jazeera (ENG);https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 Deutsche Welle (ENG);https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 Channel News Asia (ENG);https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
+Rock TV (RO);https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 TEST - SHOULD NOT WORK;https://www.google.com/
 # https://www.2ix2.com/category/deutsche-tv-sender/ German statiotions
 # https://wwitv.com/other-news-tv-live/index.html All kinds of stations
