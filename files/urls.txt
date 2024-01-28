@@ -1,43 +1,18 @@
-https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
-https://yletvworld.akamaized.net/hls/live/622540/yletv2w/index.m3u8
-https://yletvworld.akamaized.net/hls/live/622540/yletvteemafemw/index.m3u8
-https://yletvworld.akamaized.net/hls/live/622541/yletv2w/yletv_video1080p50.m3u8
-https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/yletv_video1080p50.m3u8
-## al Jazeera
-https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-https://live3.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=11a1996567ae64052807a0b2cc92750c4ca595ef
-## Bloomberg TV USA
-https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/66980d4b-87bb-4b8d-bd2a-0a9d320cb35d:BRU/variant/89b8a4328e4b55858d004b951b6518e1/bandwidth/1500000.m3u8
-## Bloomberg TV Europe
-https://dai.google.com/linear/hls/pa/event/TPKhqf0BQn2_ijC-0rOJcA/stream/84e15b78-091d-4126-8051-80f85396c760:GRQ/variant/69815cde14f14a65ccfb33f8c9a1e908/bandwidth/1200000.m3u8
-## MTV
-https://s6.hopslan.com/mtv/tracks-v1a1/mono.m3u8?token=a2c1d4ca0b1eb9c8a67dd62fcc352e07c89987db-8cb0770adeb12bfcf71d447d0d9abc9c-1706403753-1706392953
+YLE 1 (FI);https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+YLE 2 (FI);https://yletvworld.akamaized.net/hls/live/622541/yletv2w/yletv_video1080p50.m3u8
+YLE Teema (FI);https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/yletv_video1080p50.m3u8
+Al Jazeera (ENG);https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+JurnalTV (MD);https://live3.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=11a1996567ae64052807a0b2cc92750c4ca595ef
 ## India today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
-## Deutsche Welle
-https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
-## br.de
-https://mcdn.br.de/br/fs/bfs_sued/hls/int/master_1920p_5000.m3u8
-## Servus TV (AT)
-https://s6.hopslan.com/servusx1/tracks-v1a1/mono.m3u8?token=eafd70362edc35b5be1ea788b8578385d4b08b34-4543cafca8b173268fa7240e0e881226-1706406116-1706395316
-## ORF 1 (AT)
-https://s6.hopslan.com/orfx1/tracks-v1a1/mono.m3u8?token=2ecf63ec5946a2c4f146c1b0d788c37d600aedf7-05ccee1cf3f3eac13ccbe18090ba791c-1706406296-1706395496
-## ORF 2 (AT)
-https://s6.hopslan.com/orf2/tracks-v1a1/mono.m3u8?token=271937f8936257bc1b781b9c56b1188704789247-09fe4f0c950fdfaf5e7c2aeb1b5922f0-1706406258-1706395458
-## Lände TV (AT)
-https://s4.hopslan.com/landle/tracks-v1a1/mono.m3u8
-## FS1 (AT)
-https://s4.hopslan.com/fs1/tracks-v1a1/mono.m3u8
-## W24 (AT)
-https://s4.hopslan.com/w24/tracks-v1a1/mono.m3u8
-## Titol TV (AT)
-https://s4.hopslan.com/tirol/tracks-v1a1/mono.m3u8
-## DorfTV (AT)
-https://s4.hopslan.com/dorf/tracks-v1a1/mono.m3u8
-## Tagesschau (DE)
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
-## Welt N24 (DE)
-https://broadcast.welt.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/welttv-broadcast-prod/4d1dc7a5-6851-45dd-875d-170c56475c2c/6.m3u8
-## Welt der Wunder (DE)
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/chunks.m3u8?nimblesessionid=114852485
+India Today (ENG);https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+Deutsche Welle (DE);https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
+BR (DE);https://mcdn.br.de/br/fs/bfs_sued/hls/int/master_1920p_5000.m3u8
+Lände TV (AT);https://s4.hopslan.com/landle/tracks-v1a1/mono.m3u8
+FS1 (AT);https://s4.hopslan.com/fs1/tracks-v1a1/mono.m3u8
+W24 (AT)https://s4.hopslan.com/w24/tracks-v1a1/mono.m3u8
+Tirol TV (AT);https://s4.hopslan.com/tirol/tracks-v1a1/mono.m3u8
+DorfTV (AT);https://s4.hopslan.com/dorf/tracks-v1a1/mono.m3u8
+Tagesschau (DE);https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
+Welt N24 (DE);https://broadcast.welt.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/welttv-broadcast-prod/4d1dc7a5-6851-45dd-875d-170c56475c2c/6.m3u8
+Welt der Wunder (DE);https://wdw.iptv-playoutcenter.de/wdw/wdw1/chunks.m3u8?nimblesessionid=114852485
 # https://www.2ix2.com/category/deutsche-tv-sender/ German statiotions
