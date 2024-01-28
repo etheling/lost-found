@@ -2,22 +2,27 @@ YLE 1 (FI);https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 YLE 2 (FI);https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 YLE Teema (FI);https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 MTV 3 Uutiset (FI);https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+Moldova 1 (MD);https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
+Moldova 2 (MD);https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
 JurnalTV (MD);https://live3.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=11a1996567ae64052807a0b2cc92750c4ca595ef
-B1 TV (RO);https://live-serifos.cdn.dejacast.com/b1tv/b1tv.m3u8?from=1706462003&to=1706483603&session=3l39rPV8Cxn22npW&source=cms&token=TRThFf7XbRMwpY8oe5ALsSrZAr4=
-Deutsche Welle (ENG);https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
-Al Jazeera (ENG);https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-Channel News Asia (ENG);https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
-India Today (ENG);https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+from=1706462003&to=1706483603&session=3l39rPV8Cxn22npW&source=cms&token=TRThFf7XbRMwpY8oe5ALsSrZAr4=
 W24 / Wien24 (AT);https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+Okto TV Niederösterreich (AT);https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 OE24 TV (AT);https://oe24.mdn.ors.at/out/u/oe24tv_hd-nodrm.m3u8
-FS1 Salzburg (AT);https://stream.fs1.tv/hls/webstream.m3u8
-Lände TV (AT);https://s4.hopslan.com/landle/tracks-v1a1/mono.m3u8
+Ländle TV (AT);https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 DorfTV (AT);https://edge1.edge.cdn.dorftv.at:8443/dorftv/live/llhls.m3u8
+FS1 Salzburg (AT);https://stream.fs1.tv/hls/webstream.m3u8
 BR Fernsehen (DE);https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
 Tagesschau (DE);https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
 Welt N24 (DE);https://broadcast.welt.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/welttv-broadcast-prod/4d1dc7a5-6851-45dd-875d-170c56475c2c/6.m3u8
+B1 TV (RO);https://live-serifos.cdn.dejacast.com/b1tv/b1tv.m3u8
+India Today (ENG);https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 Nasa TV (ENG);https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 ABC7 News San Francisco (ENG);https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316948&ad.paln=AQzzBGQEJ1HxwvNoPsTYZrxzG5bLMO1h1GqjFrkTQKKMj_M3P-OaIX7xTkZkk_DQSYXDNSQw428bvaSiD2BYlVuS-OllF4n4_6bsk2Gg_2s0-noQg35oWATBQJVtV7X5qfYkWDp21iKVZNnSl0oeQqaUG7WhUvGKs0utXJrz0oT5b_nYPRiBB7lzUpGadJzkpMfRCPmhvrmUcLpDtcqqI8yaFsynxCKImGjcI2ch-l2-xF3x2OLTQab3I8T5ARCuUI2mr_QlFSLf4Db3Zlo5kjn3xV2skj_C7yU0Grq1u7j6XPlOVldFvHi0-xvsyZSzWBZZsCjooKxUZ1hTn5d1CjB_dqtGuLzycBlroH--eTTtL5R77abtkMhmXndZ31UlnZVsZ33t1KrNMjWfErO8y5V9OaYh7JouBVhdvZJDHGLdVnQvCfeDpCelPWrVM9t4yKdC-ZIyE0mt1ksd2tJueOykTVga1Bpsn9SICH6xHJ6nzyDMTDrBgqLZc33kKmcohh0FGXSK2ceg4c_T2MT29WiAO6jwAUENJZ3f3lfJs-G98Z35G-S6yk40PfOFVpW5iqAeEnwey5ZRMVgCdy99EDHXSsXIHTFXNkY5dmS6q1ridW7ekIBU6aDyxBbbH-r68D03RwFI2ZWSE2MtaC1KtUiNFFSBc07HyYir92G-DDd8Bj-uH3a3nDMniFycPQYiGBQGbMTnWG2K5kG11HIriuWWQXIzXiWtmXHxd7L4ZoLw1F-CeA6JUPzLXAW8fXuNBaVM3jh7j0Vcjkkn3pt-o7kkjVsqJCmJRIYBrwRbKjKG515zGP22T0dE1u9bINGcdf1TTcPdgfmGZoMCkdDIFOPVyfHaNQMYvNYC6nvx5m3QzGVsvbBjG68r6uhOGtcbkSgfIn5Xdxn1dcxS9vPMAoNR7rJ6NdyY00lFZr_M577nahgV7Mng1EueZ3XCxUSVE43lgvzlu_d7t3wYcJXMJGd3hbBQiVLC8Q..&platform=web&ad.tag=&ad.vast3=1&ad.v=2&ad.tfcd=0&ad.is_lat=0&ad.npa=0&ad.correlator=61697&ad=kgo_live&ad.adUnit=/kgo/abc7news.com/web/live-broadcast-news&ad.pp=datg-live-vdms&ad.description_url=https%3A//abc7news.com/watch/live/&ad.url=https%3A//abc7news.com/watch/live/&ad.sz=640x480&ad.ppid=0E8D4382E2844D05CD5BE350B491D6D2&ad.rdp=0&ad.us_privacy=&prbd.server=drax&ad.prbd=drax&station=kgo&id=11065007&key=otv.web.kgo.player&ad.cust_params=accesslevel%3D0%26beacTyp%3Dssai%26isAuth%3D0%26aff%3Dkgo%26lang%3Den%26ait%3Dssai%26chan%3Dmisc%26objid%3D%26isAutoplay%3D1%26isDnt%3D0%26isMute%3D0%26pgtyp%3Dwatch%26vdm%3Dlive%26plt%3Ddesktop%26stp%3Dvdms%26swid%3D0E8D4382E2844D05CD5BE350B491D6D2%26dtci_yxbk%3D%26var%3D16x9%26vps%3D640x360%26noad%3D0%26refDomain%3Dhttps%253A//abc7news.com/watch/live/%26unid%3D%26d_us_privacy%3D%26tvid%3D
 Red Bull TV;https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Al Jazeera (ENG);https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+Deutsche Welle (ENG);https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
+Channel News Asia (ENG);https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
 # https://www.2ix2.com/category/deutsche-tv-sender/ German statiotions
 # https://wwitv.com/other-news-tv-live/index.html All kinds of stations
+# https://www.squidtv.net/europe/austria/ 
