@@ -1,4 +1,5 @@
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/yletv_video1080p50.m3u8
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 https://yletvworld.akamaized.net/hls/live/622541/yletv2w/yletv_video1080p50.m3u8
 https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/yletv_video1080p50.m3u8
 ## al Jazeera
