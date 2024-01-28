@@ -9,10 +9,9 @@ India Today (ENG);https://indiatodaylive.akamaized.net/hls/live/2014320/indiatod
 Deutsche Welle (DE);https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 BR Fernsehen (DE);https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
 Lände TV (AT);https://s4.hopslan.com/landle/tracks-v1a1/mono.m3u8
-FS1 (AT);https://s4.hopslan.com/fs1/tracks-v1a1/mono.m3u8
-W24 (AT);https://s4.hopslan.com/w24/tracks-v1a1/mono.m3u8
-Tirol TV (AT);https://s4.hopslan.com/tirol/tracks-v1a1/mono.m3u8
-DorfTV (AT);https://s4.hopslan.com/dorf/tracks-v1a1/mono.m3u8
+FS1 Salzburg (AT);https://stream.fs1.tv/hls/webstream.m3u8
+W24 / Wien24 (AT);https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+DorfTV (AT);https://edge1.edge.cdn.dorftv.at:8443/dorftv/live/llhls.m3u8?
 OE24 TV (AT);https://oe24.mdn.ors.at/out/u/oe24tv_hd-nodrm.m3u8
 Tagesschau (DE);https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
 Welt N24 (DE);https://broadcast.welt.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/welttv-broadcast-prod/4d1dc7a5-6851-45dd-875d-170c56475c2c/6.m3u8
