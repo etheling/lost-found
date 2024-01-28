@@ -2,7 +2,7 @@ YLE 1 (FI);https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 YLE 2 (FI);https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 YLE Teema (FI);https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 JurnalTV (MD);https://live3.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=11a1996567ae64052807a0b2cc92750c4ca595ef
-B1 TV (RO);https://app.dejacast.com/player/d0mwnvrf/live-b1tv.js?playbackURL=https%3A%2F%2Flive-milos.cdn.dejacast.com%2Fb1tv%2Fb1tv.m3u8%3Ffrom%3D1706459870%26to%3D1706481470%26session%3DFaO4zG2AAklbUMzN%26source%3Dcms%26token%3D3Tyr0aDbl5N4jfUEQberFdP5a48%3D
+B1 TV (RO);https://live-serifos.cdn.dejacast.com/b1tv/b1tv.m3u8?from=1706462003&to=1706483603&session=3l39rPV8Cxn22npW&source=cms&token=TRThFf7XbRMwpY8oe5ALsSrZAr4=
 Al Jazeera (ENG);https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 Channel News Asia (ENG);https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
 India Today (ENG);https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
