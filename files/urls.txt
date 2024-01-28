@@ -9,7 +9,7 @@ Deutsche Welle (DE);https://dwamdstream107.akamaized.net/hls/live/2017968/dwstre
 BR (DE);https://mcdn.br.de/br/fs/bfs_sued/hls/int/master_1920p_5000.m3u8
 Lände TV (AT);https://s4.hopslan.com/landle/tracks-v1a1/mono.m3u8
 FS1 (AT);https://s4.hopslan.com/fs1/tracks-v1a1/mono.m3u8
-W24 (AT)https://s4.hopslan.com/w24/tracks-v1a1/mono.m3u8
+W24 (AT);https://s4.hopslan.com/w24/tracks-v1a1/mono.m3u8
 Tirol TV (AT);https://s4.hopslan.com/tirol/tracks-v1a1/mono.m3u8
 DorfTV (AT);https://s4.hopslan.com/dorf/tracks-v1a1/mono.m3u8
 Tagesschau (DE);https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
