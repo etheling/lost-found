@@ -6,8 +6,8 @@ Moldova 1 (MD);https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-427
 Moldova 2 (MD);https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
 JurnalTV (MD);https://live3.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=11a1996567ae64052807a0b2cc92750c4ca595ef
 W24 / Wien24 (AT);https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-Okto TV Niederösterreich (AT);https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 OE24 TV (AT);https://oe24.mdn.ors.at/out/u/oe24tv_hd-nodrm.m3u8
+Okto TV Niederösterreich (AT);https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 Ländle TV (AT);https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 FS1 Salzburg (AT);https://stream.fs1.tv/hls/webstream.m3u8
 BR Fernsehen (DE);https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
