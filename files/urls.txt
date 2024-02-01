@@ -9,7 +9,6 @@ W24 / Wien24 (AT);https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 Okto TV Niederösterreich (AT);https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 OE24 TV (AT);https://oe24.mdn.ors.at/out/u/oe24tv_hd-nodrm.m3u8
 Ländle TV (AT);https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-DorfTV (AT);https://edge1.edge.cdn.dorftv.at:8443/dorftv/live/llhls.m3u8
 FS1 Salzburg (AT);https://stream.fs1.tv/hls/webstream.m3u8
 BR Fernsehen (DE);https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
 Tagesschau (DE);https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
