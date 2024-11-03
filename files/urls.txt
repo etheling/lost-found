@@ -2,13 +2,14 @@ YLE 1 (FI);https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 YLE 2 (FI);https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 YLE Teema (FI);https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 MTV 3 Uutiset (FI);https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-Moldova 1 (MD);https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
-Moldova 2 (MD);https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
+Moldova 1 (MD);https://v5.trm.md/static/streaming-playlists/hls/f7c6d259-d32f-453a-85f8-0b9efe49e14e/master.m3u8
+Moldova 2 (MD);https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
+Moldova TV8 (MD);https://live3.cdn.tv8.md/TV7/index.m3u8?token=94a021385f5809876f70d3264a40bec158200350
 JurnalTV (MD);https://live2.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=159a70a34b22434e60a2cfbee62fd88df66469bc
+ORF 1 (AT);https://orf1-247.mdn.ors.at/orf/orf1/drmqxa-247/manifest.m3u8
+ORF 2 (AT);https://orf2-247.mdn.ors.at/orf/orf2/drmqxa-247/manifest.m3u8?offset=5
+ORF Kindern (AT):https://orfk-247.mdn.ors.at/orf/orfk/drmqxa-247/manifest.m3u8
 W24 / Wien24 (AT);https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-OE24 TV (AT);https://oe24.mdn.ors.at/out/u/oe24tv_hd-nodrm.m3u8
-Okto TV Niederösterreich (AT);https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-Ländle TV (AT);https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 FS1 Salzburg (AT);https://stream.fs1.tv/hls/webstream.m3u8
 BR Fernsehen (DE);https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
 Tagesschau (DE);https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
