@@ -4,7 +4,7 @@ YLE Teema (FI);https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/i
 MTV 3 Uutiset (FI);https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 Moldova 1 (MD);https://v5.trm.md/static/streaming-playlists/hls/f7c6d259-d32f-453a-85f8-0b9efe49e14e/master.m3u8
 Moldova 2 (MD);https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
-Moldova TV8 (MD);https://live3.cdn.tv8.md/TV7/index.m3u8?token=94a021385f5809876f70d3264a40bec158200350
+Moldova TV8 (MD);https://live3.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8?token=8330b51fcdc46fd38f58ad81ddba20e919b921c5
 JurnalTV (MD);https://live2.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=159a70a34b22434e60a2cfbee62fd88df66469bc
 W24 / Wien24 (AT);https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 FS1 Salzburg (AT);https://stream.fs1.tv/hls/webstream.m3u8
