@@ -1,20 +1,20 @@
-YLE 1 (FI);https://yletv.akamaized.net/hls/live/622365/yletv1fin/index.m3u8
-YLE 2 (FI);https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8
-YLE Teema (FI);https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8
-MTV 3 Uutiset (FI);https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-Moldova 1 (MD);https://v5.trm.md/static/streaming-playlists/hls/f7c6d259-d32f-453a-85f8-0b9efe49e14e/master.m3u8
-Moldova 2 (MD);https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
-Moldova TV8 (MD);https://live3.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8?token=8330b51fcdc46fd38f58ad81ddba20e919b921c5
-JurnalTV (MD);https://live2.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=159a70a34b22434e60a2cfbee62fd88df66469bc
-W24 / Wien24 (AT);https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-FS1 Salzburg (AT);https://stream.fs1.tv/hls/webstream.m3u8
-BR Fernsehen (DE);https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
-India Today (ENG);https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
-Red Bull TV;https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-Al Jazeera (ENG);https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-Deutsche Welle (ENG);https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-Channel News Asia (ENG);https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
-TEST - SHOULD NOT WORK;https://www.google.com/
-# https://www.2ix2.com/category/deutsche-tv-sender/ German statiotions
-# https://wwitv.com/other-news-tv-live/index.html All kinds of stations
-# https://www.squidtv.net/europe/austria/ 
+YLE 1 (FI);https://yletv.akamaized.net/hls/live/622365/yletv1fin/index.m3u8;https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+YLE 2 (FI);https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8;https://yletvworld.akamaized.net/hls/live/622540/yletv2w/index.m3u8
+YLE Teema (FI);https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8;
+MTV 3 Uutiset (FI);https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8;
+Moldova 1 (MD);https://v5.trm.md/static/streaming-playlists/hls/f7c6d259-d32f-453a-85f8-0b9efe49e14e/master.m3u8;
+Moldova 2 (MD);https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8;
+Moldova TV8 (MD);https://live3.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8?token=8330b51fcdc46fd38f58ad81ddba20e919b921c5;
+JurnalTV (MD);https://live2.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=159a70a34b22434e60a2cfbee62fd88df66469bc;
+W24 / Wien24 (AT);https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8;
+FS1 Salzburg (AT);https://stream.fs1.tv/hls/webstream.m3u8;
+BR Fernsehen (DE);https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8;
+India Today (ENG);https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8;
+Red Bull TV;https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8;
+Al Jazeera (ENG);https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8;
+Deutsche Welle (ENG);https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8;
+Channel News Asia (ENG);https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8;
+TEST - SHOULD NOT WORK;https://www.google.com/;
+# https://www.2ix2.com/category/deutsche-tv-sender/ German statiotions;
+# https://wwitv.com/other-news-tv-live/index.html All kinds of stations;
+# https://www.squidtv.net/europe/austria/;
